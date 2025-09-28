@@ -20,7 +20,7 @@ Data is extracted from CSV, cleaned and transformed with **Python (Pandas)**, an
 
 ## Dataset
 The dataset is **not included** in this repository because of size limits.  
-👉 Download the dataset from [https://www.kaggle.com/datasets/tunguz/online-retail](#) and place it in:
+👉 Download the dataset from [https://www.kaggle.com/datasets/tunguz/online-retail](#).
 
 
 
