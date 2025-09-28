@@ -9,13 +9,13 @@ This repository showcases my work in **Data Engineering** and **Data Warehousing
 - Storage in **Parquet, CSV**  
 - Analytics-ready datasets for BI & ML  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Languages & Tools**: Python, PySpark, SQL  
 - **Databases**: PostgreSQL, MySQL  
 - **Big Data**: PySpark, Hadoop  
 - **Cloud & Storage**: AWS S3, GCP BigQuery
 - 
-## 📬 Contact  
+## Contact  
 👤 **Adan Akbar**  
 🔗 [LinkedIn][(https://linkedin.com/in/your-link](https://www.linkedin.com/in/adan-akbar-63175a278/))  
 ✉️ adanakbarsiddiqui@gmail.com
